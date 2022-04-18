@@ -1,5 +1,5 @@
 # video-filter-redis
-## 为迎合项目简便移植需求，项目所有内容均移步至docker版本的开发，本地版本的代码已经废弃，请读者移步至[docker](./docker/README.md)内查看
+## 为迎合项目简便移植需求，项目所有内容均移步至docker版本的开发，host版本的代码几乎废弃，请读者移步至[docker](./docker/README.md)内查看
 
 ## 目录：
 * [目录](#目录)
